@@ -1,4 +1,4 @@
-# clock-using-html-css-js
+# Analog clock-using-html-css-js
 Analog Clock using HTML, CSS, and JavaScript
 This project is a simple yet elegant analog clock built using HTML, CSS, and JavaScript. It visually represents real-time updates of the current hour, minute, and second, making it a great example of how JavaScript can manipulate the DOM dynamically.
 
